@@ -62,7 +62,8 @@ const useStyles = makeStyles((theme) => ({
     marginBottom: "10px",
   },
   cardDataBoxLeft: {
-    marginTop: "50px",
+    position: "fixed",
+    top: "20%",
     marginLeft: "30px",
   },
   cardDataBoxRight: {
